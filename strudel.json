@@ -1,0 +1,16 @@
+{
+    "_base": "https://raw.githubusercontent.com/nozzle-1/samples/master/",
+    "hard_techno_kick": [
+        "hard_techno/kick/1.wav",
+        "hard_techno/kick/2.wav",
+        "hard_techno/kick/3.wav",
+        "hard_techno/kick/4.wav",
+        "hard_techno/kick/5.wav",
+        "hard_techno/kick/6.wav",
+        "hard_techno/kick/7.wav",
+        "hard_techno/kick/8.wav"
+    ],
+    "hard_techno_fx": [
+        "hard_techno/fx/1.wav"
+    ]
+}
